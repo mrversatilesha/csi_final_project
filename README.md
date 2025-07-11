@@ -1,5 +1,5 @@
 # Generic Continuous Data Ingestion & Conditional Processing using Azure Data Factory
-[📽️ Watch Demo Video](https://drive.google.com/file/d/143u6-td5RY-SwvUT-vOuwsZd3ZzXIdh6/view?usp=sharing)
+[📽️ Watch Demo Video](https://drive.google.com/file/d/1R2vwP7OtHbeF863gwkSRFkUoA3h0WDB6/view?usp=drive_link)
 
 ---
 
@@ -88,7 +88,7 @@ Uses:
 
 Click below to watch the full working demo of the pipeline:
 
-▶️ [Watch the Demo](https://drive.google.com/file/d/143u6-td5RY-SwvUT-vOuwsZd3ZzXIdh6/view?usp=sharing)
+▶️ [Watch the Demo](https://drive.google.com/file/d/1R2vwP7OtHbeF863gwkSRFkUoA3h0WDB6/view?usp=drive_link)
 
 ---
 
